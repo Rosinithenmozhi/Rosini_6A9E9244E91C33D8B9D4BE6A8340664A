@@ -10,3 +10,5 @@ number=2
 res=fact_rec(number)
 
 print("The factorial of {} is {}".format(number,res))
+output
+The factorial of 2 is 2
